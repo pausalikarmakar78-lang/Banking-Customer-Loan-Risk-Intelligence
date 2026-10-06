@@ -1,3 +1,25 @@
+## Power BI Dashboard Preview
+
+### Executive Overview
+![Executive Overview](screenshots/executive_overview.png)
+
+### Customer Analytics
+![Customer Analytics](screenshots/customer_analytics.png)
+
+### Loan Portfolio
+![Loan Portfolio](screenshots/loan_portfolio.png)
+
+### Risk & Default Analysis
+![Risk & Default](screenshots/risk_default.png)
+
+### Customer Segmentation
+![Customer Segmentation](screenshots/customer_segmentation.png)
+
+### Branch Analysis
+![Branch Analysis](screenshots/branch_analysis.png)
+
+
+
 # Banking Customer & Loan Risk Intelligence
 
 A complete end-to-end banking analytics project focused on customer behavior, loan portfolio analysis, transaction insights, and credit risk analysis.
