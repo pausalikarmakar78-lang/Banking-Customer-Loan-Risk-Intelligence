@@ -1,0 +1,51 @@
+Branch_ID,Branch_Name,State,City
+BR001,Kolkata Main,West Bengal,Kolkata
+BR002,Salt Lake,West Bengal,Salt Lake
+BR003,Howrah,West Bengal,Howrah
+BR004,Siliguri,West Bengal,Siliguri
+BR005,Durgapur,West Bengal,Durgapur
+BR006,Asansol,West Bengal,Asansol
+BR007,Kharagpur,West Bengal,Kharagpur
+BR008,Bardhaman,West Bengal,Bardhaman
+BR009,Naihati,West Bengal,Naihati
+BR010,Barrackpore,West Bengal,Barrackpore
+BR011,Delhi Central,Delhi,Delhi
+BR012,Noida,Uttar Pradesh,Noida
+BR013,Gurgaon,Haryana,Gurgaon
+BR014,Ghaziabad,Uttar Pradesh,Ghaziabad
+BR015,Faridabad,Haryana,Faridabad
+BR016,Mumbai Central,Maharashtra,Mumbai
+BR017,Andheri,Maharashtra,Andheri
+BR018,Thane,Maharashtra,Thane
+BR019,Navi Mumbai,Maharashtra,Navi Mumbai
+BR020,Pune,Maharashtra,Pune
+BR021,Chennai Central,Tamil Nadu,Chennai
+BR022,Coimbatore,Tamil Nadu,Coimbatore
+BR023,Madurai,Tamil Nadu,Madurai
+BR024,Hyderabad Central,Telangana,Hyderabad
+BR025,Secunderabad,Telangana,Secunderabad
+BR026,Bengaluru Central,Karnataka,Bengaluru
+BR027,Mysuru,Karnataka,Mysuru
+BR028,Ahmedabad,Gujarat,Ahmedabad
+BR029,Surat,Gujarat,Surat
+BR030,Vadodara,Gujarat,Vadodara
+BR031,Jaipur,Rajasthan,Jaipur
+BR032,Jodhpur,Rajasthan,Jodhpur
+BR033,Lucknow,Uttar Pradesh,Lucknow
+BR034,Kanpur,Uttar Pradesh,Kanpur
+BR035,Patna,Bihar,Patna
+BR036,Bhubaneswar,Odisha,Bhubaneswar
+BR037,Ranchi,Jharkhand,Ranchi
+BR038,Guwahati,Assam,Guwahati
+BR039,Kochi,Kerala,Kochi
+BR040,Thiruvananthapuram,Kerala,Thiruvananthapuram
+BR041,Bhopal,Madhya Pradesh,Bhopal
+BR042,Indore,Madhya Pradesh,Indore
+BR043,Nagpur,Maharashtra,Nagpur
+BR044,Raipur,Chhattisgarh,Raipur
+BR045,Chandigarh,Chandigarh,Chandigarh
+BR046,Amritsar,Punjab,Amritsar
+BR047,Dehradun,Uttarakhand,Dehradun
+BR048,Varanasi,Uttar Pradesh,Varanasi
+BR049,Agra,Uttar Pradesh,Agra
+BR050,Visakhapatnam,Andhra Pradesh,Visakhapatnam
